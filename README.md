@@ -1,7 +1,7 @@
 
 # Dallas Skybot (@dallas_skybot)
 <div style="display:flex">
-    <img src="/screenshot" alt="color" style="width:100%;">
+    <img src="/screenshot.png" alt="color" style="width:100%;">
 </div>
 ## Overview
 
