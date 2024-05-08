@@ -11,5 +11,5 @@ You can check it out at [twitter.com/dallas_skybot](https://twitter.com/dallas_s
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
